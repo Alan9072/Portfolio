@@ -369,6 +369,9 @@ body{
     height:100vh;
     background-color:#ededec;
     padding: 5vw 6vw;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     color:black;
     
 }
